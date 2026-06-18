@@ -1,6 +1,4 @@
-## Hi there 👋
-
-👋 About Me
+## About Me
 
 Hi! I’m a Computer Science student passionate about programming, problem-solving, and building real-world applications. I enjoy exploring new technologies and continuously improving my development skills.
 
