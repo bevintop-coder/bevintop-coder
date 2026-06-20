@@ -16,6 +16,14 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bevintop-coder&theme=tokyo-night)
 
+# 🐍 GitHub Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/BevintoPaul/BevintoPaul/output/github-contribution-grid-snake.svg" />
+
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bevintop-coder&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
