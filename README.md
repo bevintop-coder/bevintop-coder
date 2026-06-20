@@ -12,6 +12,10 @@
 ![](https://streak-stats.demolab.com/?user=bevintop-coder&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bevintop-coder&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BevintoPaul&theme=tokyo-night)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bevintop-coder&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
