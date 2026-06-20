@@ -1,21 +1,157 @@
-# 💫 About Me:
-👨‍💻 **I'm currently working on**<br>Building software projects using Java, web technologies, and exploring real-world development solutions.<br><br>🤝 **I'm looking to collaborate on**<br>Open-source projects, innovative applications, and technology-driven solutions.<br><br>🛠️ **I'm looking for help with**<br>Improving my coding practices, learning advanced concepts, and gaining industry-level development knowledge.<br><br>🌱 **I'm currently learning**<br>Java, Data Structures & Algorithms, Database Management Systems, Web Development, and Software Engineering.<br><br>💬 **Ask me about**<br>Java programming, coding projects, problem-solving, databases, and software development.<br><br>⚡ **Fun fact**<br>I enjoy transforming ideas into projects and continuously exploring new technologies.<br>
+# 👨‍💻 Bevinto Paul
+
+### Java Developer | AI & Full Stack Enthusiast | Building Real-World Software Solutions 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+---
+
+# 💫 About Me
+
+🔭 **Currently Working On:**  
+Building software projects, AI-based applications, and full-stack solutions using modern technologies.
+
+🌱 **Currently Learning:**  
+Advanced Java, Data Structures & Algorithms, Database Management Systems, Machine Learning, AI, and Full Stack Development.
+
+🤝 **Looking to Collaborate On:**  
+Open-source projects, AI/ML applications, backend systems, and innovative software solutions.
+
+💬 **Let's Talk About:**  
+Java Programming, Python, Web Development, Databases, Software Engineering, and Problem Solving.
+
+⚡ **Fun Fact:**  
+I enjoy converting ideas into practical projects and continuously exploring new technologies to improve my development skills.
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn  
+📧 Email  
+🐙 GitHub  
+
+---
+
+# 🛠️ Tech Stack & Arsenal
+
+## ☕ Programming Languages
+
+<p>
+Java • Python • C • C++ • JavaScript
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bevinto_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bevinto-paul-3a0023295/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bevinto_7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bevintop@gmail.com) 
+## 🧠 AI, ML & Data Science
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=flat&logo=esbuild&logoColor=black) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=flat&logo=CrateDB&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bevintop-coder&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bevintop-coder&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bevintop-coder&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+Machine Learning • NLP • Artificial Intelligence • Data Analysis
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bevintop-coder&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## ⚙️ Backend & Databases
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+Node.js • Express.js • SQL • MySQL • SQLite • JDBC
+</p>
+
+
+## 🎨 Frontend & Design
+
+<p>
+HTML • CSS • JavaScript • React.js
+</p>
+
+
+## 🛠️ Tools & Platforms
+
+<p>
+Git • GitHub • VS Code • IntelliJ IDEA • Linux
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+
+## 📰 Fake-News-Detection-System
+
+AI-powered NLP application that analyzes news content and classifies articles as REAL or FAKE using machine learning techniques.
+
+**Tech:** Python, Java, NLP, Machine Learning, HTML, CSS, JavaScript
+
+
+---
+
+## 🔐 SecureVault Password Manager
+
+A secure password management application that stores credentials using encryption, authentication, and secure storage techniques.
+
+**Tech:** Java, Python, C, C++, JavaScript, SQLite
+
+
+---
+
+## 🎓 Student Management System
+
+A Java-based console application to manage student records with add, search, view, and delete functionalities.
+
+**Tech:** Java, OOP, ArrayList
+
+
+---
+
+## 📝 Todo Application
+
+Full-stack task management application with modern UI and backend integration.
+
+**Tech:** React.js, Node.js, Express.js, PostgreSQL
+
+
+---
+
+# 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+
+---
+
+# 🏆 Skills & Interests
+
+🔥 Software Development  
+🤖 Artificial Intelligence  
+🧠 Machine Learning  
+🌐 Full Stack Development  
+📚 Data Structures & Algorithms  
+🔐 Cyber Security Basics  
+
+
+---
+
+# ✍️ Developer Quote
+
+> "Code is not just about solving problems, it's about creating solutions that make an impact."
+
+---
+
+# 📌 Current Goals
+
+🚀 Build industry-level projects  
+🤖 Explore Generative AI  
+☁️ Learn Cloud Technologies  
+💻 Improve Software Engineering Practices  
+
+
+---
+
+# 👨‍💻 Author
+
+**Bevinto Paul**  
+
+🎓 B.Tech - Computer Science and Engineering  
+
+Built with passion, code, and continuous learning 🚀
